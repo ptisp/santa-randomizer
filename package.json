@@ -1,0 +1,16 @@
+{
+  "name": "santa-randomizer",
+  "description": "PTisp Santa Randomizer",
+  "version": "0.1.0",
+  "author": "Pedro Dias <petermdias@gmail.com>",
+  "maintainers": [
+    "apocas <petermdias@gmail.com>"
+  ],
+  "dependencies": {
+    "emailjs": "0.3.x"
+  },
+  "main": "./main",
+  "engines": {
+    "node": ">= 0.8"
+  }
+}
